@@ -1,7 +1,8 @@
 First download given minikube deb file from current repo (version of minikube-1.33.1.0)
 
-# wget link_address_of_deb_file
-
+```bash
+wget link_address_of_deb_file
+```
 then download kubectl command previous version having version less than minikube 
 eg. kubectl-1.31
 
